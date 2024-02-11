@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.bgimg-1 {
+  position: relative;
+  background-image: url(https://api.titan.az/mehsullar/image-1680681855422-245949740.jpg);
+  height: 500px;
+  background-repeat: no-repeat;
+}
+
+#section2 {
+  position: relative;
+  left: 200px;
+  font-size: 2rem;
+}
+h3 {
+  position: absolute;
+  left: 50px;
+}
+svg {
+  position: relative;
+  top: -300px;
+  left: 180px;
+  width: 30px;
+  background-color: #ffffff;
+  border-radius: 50%;
+}
+.hearticon {
+  position: absolute;
+  bottom: 100px;
+  left: 180px;
+  size: 10px;
+}
+a:hover {
+  background-color: #352e62;
+  display: flex;
+  border-color: #352e62;
+}
